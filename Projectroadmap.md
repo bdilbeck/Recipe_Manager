@@ -22,3 +22,15 @@ Current Commits:
 11/10/2021
 
 We plan to build upon this program by adding a function that displays nutrition information.
+
+Project goals:
+()Make sure code is running and to correct any errors in code as needed
+
+()Have a recipe image display
+
+()Have an image recognition feature 
+
+()Update prices with current economy situation and make sure they are updated correctly in code
+
+()Fix file errors and make sure none is missing
+
