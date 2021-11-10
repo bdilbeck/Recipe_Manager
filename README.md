@@ -33,3 +33,20 @@ To get involved with development, clone the repository to your local IDE and per
 The foodmanager project was started and is currently run by Christoph Krammer <chris@twotigers.de>.
 ## Updated Contact: (11/27/2018)
 Currently being tested by Jackson Draper. For questions and concerns contact <jdraps94@gmail.com>.
+
+This is a tool to make recipes easier and faster and will provide ingredients for recipes with their nutritional values and/or price. 
+
+Checklist:
+
+()Clean up code
+
+(X)Making sure the code is running
+
+()Updated ingredients and/or recipes with healthier options
+
+()Possibly an image recognition feature
+
+()Update pricing to match current economic standards
+
+Updated: 11/10/2021
+
