@@ -18,3 +18,7 @@ Current Commits:
  5. Created Readme.md
  6. Created License
  7. Added virtual environment to run program
+
+11/10/2021
+
+We plan to build upon this program by adding a function that displays nutrition information.
