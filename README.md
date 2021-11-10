@@ -34,7 +34,8 @@ The foodmanager project was started and is currently run by Christoph Krammer <c
 ## Updated Contact: (11/27/2018)
 Currently being tested by Jackson Draper. For questions and concerns contact <jdraps94@gmail.com>.
 
-##Updated: 11/10/2021
+____________________________________________________________________________________________________________________________________
+Updated: 11/10/2021
 
 This is a tool to make recipes easier and faster and will provide ingredients for recipes with their nutritional values and/or price. 
 
