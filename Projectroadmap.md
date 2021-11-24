@@ -24,7 +24,6 @@ Current Commits:
 We plan to build upon this program by adding a function that displays nutrition information.
 
 Project goals:
-
 ()Make sure code is running and to correct any errors in code as needed
 
 ()Have a recipe image display
